@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/enspiron.github.io/DragaliaSchedule/static/css/main.54a33272.chunk.css",
-    "main.js": "/enspiron.github.io/DragaliaSchedule/static/js/main.44fdeab3.chunk.js",
-    "main.js.map": "/enspiron.github.io/DragaliaSchedule/static/js/main.44fdeab3.chunk.js.map",
-    "runtime-main.js": "/enspiron.github.io/DragaliaSchedule/static/js/runtime-main.fc308176.js",
-    "runtime-main.js.map": "/enspiron.github.io/DragaliaSchedule/static/js/runtime-main.fc308176.js.map",
-    "static/js/2.5d441e89.chunk.js": "/enspiron.github.io/DragaliaSchedule/static/js/2.5d441e89.chunk.js",
-    "static/js/2.5d441e89.chunk.js.map": "/enspiron.github.io/DragaliaSchedule/static/js/2.5d441e89.chunk.js.map",
-    "index.html": "/enspiron.github.io/DragaliaSchedule/index.html",
-    "precache-manifest.affd56eae7a1fb056121ef8d2de498d6.js": "/enspiron.github.io/DragaliaSchedule/precache-manifest.affd56eae7a1fb056121ef8d2de498d6.js",
-    "service-worker.js": "/enspiron.github.io/DragaliaSchedule/service-worker.js",
-    "static/css/main.54a33272.chunk.css.map": "/enspiron.github.io/DragaliaSchedule/static/css/main.54a33272.chunk.css.map",
-    "static/js/2.5d441e89.chunk.js.LICENSE.txt": "/enspiron.github.io/DragaliaSchedule/static/js/2.5d441e89.chunk.js.LICENSE.txt"
+    "main.css": "/DragaliaSchedule/static/css/main.54a33272.chunk.css",
+    "main.js": "/DragaliaSchedule/static/js/main.76fee4b2.chunk.js",
+    "main.js.map": "/DragaliaSchedule/static/js/main.76fee4b2.chunk.js.map",
+    "runtime-main.js": "/DragaliaSchedule/static/js/runtime-main.4e8f144c.js",
+    "runtime-main.js.map": "/DragaliaSchedule/static/js/runtime-main.4e8f144c.js.map",
+    "static/js/2.5d441e89.chunk.js": "/DragaliaSchedule/static/js/2.5d441e89.chunk.js",
+    "static/js/2.5d441e89.chunk.js.map": "/DragaliaSchedule/static/js/2.5d441e89.chunk.js.map",
+    "index.html": "/DragaliaSchedule/index.html",
+    "precache-manifest.b50e0c1e9589bb09d367837ac119fae4.js": "/DragaliaSchedule/precache-manifest.b50e0c1e9589bb09d367837ac119fae4.js",
+    "service-worker.js": "/DragaliaSchedule/service-worker.js",
+    "static/css/main.54a33272.chunk.css.map": "/DragaliaSchedule/static/css/main.54a33272.chunk.css.map",
+    "static/js/2.5d441e89.chunk.js.LICENSE.txt": "/DragaliaSchedule/static/js/2.5d441e89.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc308176.js",
+    "static/js/runtime-main.4e8f144c.js",
     "static/js/2.5d441e89.chunk.js",
     "static/css/main.54a33272.chunk.css",
-    "static/js/main.44fdeab3.chunk.js"
+    "static/js/main.76fee4b2.chunk.js"
   ]
 }
